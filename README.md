@@ -1,4 +1,4 @@
-# README
+# hybrid-linreg-xgboost-timeseries-forecast-sales-python
 
 This project focuses on forecasting store sales using a hybrid model inspired and adapted from Kaggle's Time Series Course. The hybrid model combines Linear Regression and XGBoost to capture both linear trends and non-linear patterns in the sales data. This involves data preprocessing, feature engineering, model training, prediction, and evaluation.
 
